@@ -1,5 +1,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2553679.svg)](https://doi.org/10.5281/zenodo.2553679)
 
+## Leveraging this as a tutorial on the use of isolation forest for anomoly detection in general prior to applying to log files
+
 # iso_forest
 
 This is a simple package implementation for the isolation forest method described (among other places) in this [paper](icdm08b.pdf) for detecting anomalies and outliers from a data point distribution.
